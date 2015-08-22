@@ -6,7 +6,7 @@ var purple = [280, 50, 60];
 
 var myName = "Viscount";
 var letterColors = [red, orange,green,blue, purple]
-
+bubbleShape = "square"
 
 
 drawName(myName, letterColors);
